@@ -38,4 +38,4 @@ Screenshots :
 2. Animations : Using  animated.css and waypoint plugin of jquery (Some animations are customized)</br>
 3. Navigation : Using javascript </br>
 
-## All popular browsers like Google Chrome , Mozilla Firefox and Internet Explorer rendors the website appropriately .
+## All popular browsers like Google Chrome , Mozilla Firefox, nternet Explorer and Microsoft Edge rendors the website appropriately .
